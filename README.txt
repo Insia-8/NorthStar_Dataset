@@ -40,6 +40,3 @@ __Section 3 — NorthStar_Section3_MongoDB.ipynb__
 - Fuel cost exceeds order value in a subset of low-value orders — a minimum order value threshold of £15–£20 is recommended
 - Random Forest model achieved 64% accuracy but could not identify failed deliveries from structured data alone — justifying the MongoDB redesign
 
----
-
-That is all you need. Keep it factual and clear — the examiner just needs to know what is in the repo, how to open things, and what the work is about.
